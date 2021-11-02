@@ -1,0 +1,9 @@
+# Ignore all logfiles.
+/log/
+
+# Ignore env variables while developing
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
