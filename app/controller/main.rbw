@@ -2,14 +2,13 @@
 # Designed on 08/12/2019
 
 # Variables
-$company = "Tachibana Corporation"
+$company = "Tachibana Corporation(™)"
 $company_link = "https://www.tachibana.tech/"
 $program_information = "Trying to remember how to build a connection string was a pain, " +
-                      "so we built this program.\n\nDesigned by Tachibana Corporation(™)\n#{$company_link}"
+                      "so we built this program.\n\nDesigned by #{$company}\n#{$company_link}"
 $license = "This code is free to use, and is licensed by the Tachibana Corporation Software License.\n" + "Code was designed by #{$company}.\n"
 $software_version = "1.0.0"
 $application_name = "Database String Builder"
-$detected_operating_system = ""
 $root_directory = "../.."
 
 # Required ruby code
